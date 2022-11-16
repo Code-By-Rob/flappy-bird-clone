@@ -12,4 +12,4 @@ Here is my website: [robertbowden.uk](https://robertbowden.uk/) & here is my [Li
 And here is a list of other projects I worked on:
 - [video hosting platform](#)
 - [Friend Finder Application](https://github.com/Code-By-Rob/Friend-Finder-App)
-- [FalpyBird](https://github.com/Code-By-Rob/flappy-bird-clone)
+- [Stishh Blog](https://github.com/Code-By-Rob/Stishh)
