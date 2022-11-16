@@ -1,5 +1,5 @@
 # flappy-bird-clone
-This is a re-creation of the infamous vide game Flappy Bird. Built as a summer project to help get me familiar with Java in Android Studio.
+(PROJECT): This is a re-creation of the infamous vide game Flappy Bird. Built as a summer project to help get me familiar with Java in Android Studio.
 
 This small game was built in Android Studio using Java & [libGDX](https://libgdx.com/) while I was learning the Android Studio environment & using my learnings of Java from my university's programming module in year 1 & a [Udemy course on Android Development](https://www.udemy.com/course/complete-android-n-developer-course/).
 
